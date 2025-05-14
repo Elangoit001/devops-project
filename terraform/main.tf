@@ -1,0 +1,2 @@
+# Terraform config
+provider "local" {}
